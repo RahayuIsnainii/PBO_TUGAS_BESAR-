@@ -1,4 +1,4 @@
-package PBO;
+package desain;
 
 public class awal extends javax.swing.JFrame {
 
@@ -16,8 +16,10 @@ public class awal extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jProgressBar1.setBackground(new java.awt.Color(255, 255, 255));
-        jProgressBar1.setForeground(new java.awt.Color(51, 102, 255));
+        jPanel1.setBackground(new java.awt.Color(245, 245, 245));
+
+        jProgressBar1.setBackground(new java.awt.Color(204, 204, 204));
+        jProgressBar1.setForeground(new java.awt.Color(51, 51, 51));
 
         jLabel1.setFont(new java.awt.Font("Comic Sans MS", 1, 36)); // NOI18N
         jLabel1.setText("Point of Sale");
@@ -84,8 +86,6 @@ public class awal extends javax.swing.JFrame {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(awal.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
-        //</editor-fold>
-        //</editor-fold>
         //</editor-fold>
         //</editor-fold>
 
