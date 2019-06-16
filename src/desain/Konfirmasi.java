@@ -1,6 +1,6 @@
 package desain;
 
-import coding.Konfirmasi1;
+import code.Konfirmasi1;
 
 public class Konfirmasi extends javax.swing.JFrame {
     Konfirmasi1 pembeli;

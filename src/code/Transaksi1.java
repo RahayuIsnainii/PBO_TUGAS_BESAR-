@@ -1,4 +1,4 @@
-package coding;
+package code;
 
 public class Transaksi1 {
     private String namaBarang;

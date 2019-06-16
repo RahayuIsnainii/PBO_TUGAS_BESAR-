@@ -1,4 +1,4 @@
-package coding;
+package code;
 
 import desain.Transaksi;
 import desain.awal;

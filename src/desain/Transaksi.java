@@ -1,7 +1,7 @@
 package desain;
 
-import coding.Transaksi1;
-import coding.Transaksi2;
+import code.Transaksi1;
+import code.Transaksi2;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;

@@ -1,4 +1,4 @@
-package coding;
+package code;
 
 public class Konfirmasi1 {
     private String metodeBayar;
